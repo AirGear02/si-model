@@ -1,0 +1,11 @@
+export const DEFAULT_N  = 100
+export const DEFAULT_S0 = 75
+export const DEFAULT_I0 = 25
+export const DEFAULT_DELTA1 = 0.5;
+export const DEFAULT_DELTA2 = 0.5;
+export const DEFAULT_TAU1 = 4;
+export const DEFAULT_TAU2 = 4;
+export const DEFAULT_GAMMA1 = 0.7;
+export const DEFAULT_GAMMA2 = 0.7;
+export const DEFAULT_TAU = 6;
+export const DEFAULT_BETA = 0.3;  
